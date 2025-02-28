@@ -11,7 +11,6 @@ Last updated: 2025-02-28
 ```
 .
 ├── README.md
-├── guidelines.md
 ├── best_practices.md
 ├── network
 │   ├── README.md
@@ -37,12 +36,8 @@ Last updated: 2025-02-28
 │   ├── purview.md
 │   ├── data_security.md
 │   ├── ai_security.md
-├── assets
-│   ├── images
-│   ├── videos
-│   ├── documents
-├── templates
+├── guides-for-usecases
 │   ├── README.md
-│   ├── template1.md
-│   ├── template2.md
+│   ├── usecase1.md
+│   ├── usecase2.md
 ```
